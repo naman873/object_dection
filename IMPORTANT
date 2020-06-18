@@ -1,0 +1,5 @@
+fir go to model folder and then go to research folder then open cmd from there ......
+then copy this link     """protoc object_detection/protos/*.proto --python_out=.""""
+And above of this link paste the location of protobuff folder then run this command 
+then cd to objection_dection folder
+then run jupyter-lab/jupyter-notebook
